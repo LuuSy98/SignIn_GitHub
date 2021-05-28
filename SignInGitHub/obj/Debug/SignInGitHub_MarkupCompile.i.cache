@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\source\repos\SignInGitHub\SignInGitHub\obj\Debug\
+F:\Training\SignIn_GitHub\SignInGitHub\obj\Debug\
 SignInGitHub
 none
 false
 DEBUG;TRACE
-C:\Users\Admin\source\repos\SignInGitHub\SignInGitHub\App.xaml
-61036858131
+F:\Training\SignIn_GitHub\SignInGitHub\App.xaml
+6-109007836
 
-61434861427
+10-2061238516
 13-1505183044
-Data\ButtonLabelLikeStyle.xaml;Data\ButtonStyle.xaml;Data\LabelStyle.xaml;Data\PasswordBoxStyle.xaml;Data\TextBoxStyle.xaml;MainWindow.xaml;
+Data\ButtonLabelLikeStyle.xaml;Data\ButtonStyle.xaml;Data\LabelStyle.xaml;Data\PasswordBoxStyle.xaml;Data\TextBoxStyle.xaml;MVVM\Views\MainWindowView.xaml;
 
-True
+False
 
